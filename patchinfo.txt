@@ -1,3 +1,4 @@
+d3d9.dll 2569348b2b8ca7724f6fc7f5cbe909224875c66f
 DataTable\BlockData.dat 9069ca78e7450a285173431b3e52c5c25299e473
 DataTable\Character.edf d93a9adf844fc8ce0d846f36bc677e8840236de1
 DataTable\Csxx.txt 31d212b87b2ebe5a1427b7ccb0e37c74b2451a9e
