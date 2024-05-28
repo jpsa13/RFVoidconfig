@@ -4,7 +4,7 @@ SpriteImage\Common\common.sef.spr 4979813ad927e56a4491310b2a3ab2e41715ff90
 SpriteImage\Common\cribattle.sef.spr 0ed09bb66bb1ba42759b3c3a0978b5ad620d29bf
 SpriteImage\Common\guild.sef.spr ee7552f520da71920efd444051f29d6e2c935d76
 SpriteImage\Common\inventory.sef.spr 75910b9986d148ba7bb263d834320b2befb8536d
-SpriteImage\Common\item.sef.spr 83a4d3b9f1c9905e5fbe5443d8ba68a2bcd232ee
+SpriteImage\Common\item.spr b9d55c1eee3d3b8c22dafb3823777aff4153a5dd
 SpriteImage\Common\itemcombine.sef.spr f4611f66572a6ac6cd68d546092bbc6ef4c92e62
 SpriteImage\Common\itemupgrade.sef.spr 7dce300ec1624e0b02be4c933a2a6009bc2c7d3f
 SpriteImage\Common\login.sef.spr c45af51eb0db16c1564fcda5cc0e9efc777994a1
@@ -14,6 +14,6 @@ SpriteImage\Common\patriarch.sef.spr fe5ccbc7bda3dc3aea68acc339ebad146095e1c5
 SpriteImage\Common\system.sef.spr 83dada70cfbe490b8975cdecadf33cd09e928c48
 SpriteImage\Common\unmannedminer.sef.spr 07d0a673468eb8e9d3fe67e72dbabfdf47917372
 SpriteImage\en-ph\common.sef.spr fd6fc42cf279526c44a06ebb9d6c4ddb6ca22398
-SpriteImage\en-ph\item.sef.spr feaf257d8914929c4ed36bb2d578f9295d25d201
+SpriteImage\en-ph\item.spr b9d55c1eee3d3b8c22dafb3823777aff4153a5dd
 SpriteImage\en-ph\itemupgrade.sef.spr a4d1b1ebe836d5d2f65e7c1bbfaf523d2123b70a
 SpriteImage\en-ph\login.sef.spr 61d44b56f83fed054dcb05fa3d8bc183e7427f96
