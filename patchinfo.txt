@@ -1,3 +1,19 @@
+<<<<<<< HEAD
+SpriteImage\common\class.spr 5b7e66c2e25fd1390d6838ce9527828b5f357dfe
+SpriteImage\common\common.spr 876d6c492f973982cb1988e44f756ed8863abdf5
+SpriteImage\common\cribattle.spr f44a0ca0c1a0be55fcbaf030eb16a48c155028ae
+SpriteImage\common\guild.spr bbfb2730cda02393466d1d9b3e8cce3961860e09
+SpriteImage\common\inventory.spr 07692dd2d6aad5026d86388cd8d6b6a9ddef07a1
+SpriteImage\common\itemcombine.spr 0eab241b859cdc085a4f3042442c7b7e7088490e
+SpriteImage\common\itemupgrade.spr 7f9281796b9bcc1d50b11460de81990615032f90
+SpriteImage\common\login.spr ec827a7bf32a6a566531d687c03b259577f76e07
+SpriteImage\common\main.spr 90900579af78efe8fd2e3baf1df24ada1f727de0
+SpriteImage\common\oreproc.spr 820a78b8a436ccf6985632b6e221da62731b8fca
+SpriteImage\common\patriarch.spr 249ebf7acc13f9557a5bdc8ddf0dfa5378ad6671
+SpriteImage\common\system.spr b11dab346b4a372d054103e3041b2112abe3b656
+SpriteImage\common\unmannedminer.spr 8e963583eb19f6caa8faed5ec8db567df301d539
+SpriteImage\en-ph\common.spr 876d6c492f973982cb1988e44f756ed8863abdf5
+=======
 DataTable\BlockData.dat 9069ca78e7450a285173431b3e52c5c25299e473
 DataTable\Character.edf d93a9adf844fc8ce0d846f36bc677e8840236de1
 DataTable\Csxx.txt 31d212b87b2ebe5a1427b7ccb0e37c74b2451a9e
@@ -36,7 +52,7 @@ DataTable\en-ph\NDMsgEvent.edf 0cf97b7cc46d33adce0ba9e7da9e8144c4d20fd5
 DataTable\en-ph\NDMsgMonster.edf dad47bedf8cdb176dc25a8ca035dead32dabdb20
 DataTable\en-ph\NDQuest.edf 0d779fbf2f8fd1ac0d107cfa7a26dc5170d1ef1f
 DataTable\en-ph\NDSkillForce.edf 674700fa5358a0669b7a9c8f0ec761ee54539965
-DataTable\en-ph\NDStore.edf df01c9ad787e4a9731298362bdb683825e53232c
+DataTable\en-ph\NDStore.edf 6f134985250ad91677801328d147100c6003d09f
 DataTable\en-ph\PcRoom.edf 8f12688b27b744e3ebf60d664cae6b6313100e7f
 DataTable\en-ph\Player.edf 82772204ccd5d33d28157c54169d16fd5fcb543e
 DataTable\en-ph\RF_WebURL.dat 33b58b9025c204021c6a5de7af476bb383e72115
@@ -59,6 +75,9 @@ DataTable\PlayerCharacter.edf 48e4dbe4d7937fad86532fa38739c700f6ba5369
 DataTable\Quest.edf 020b266d9dbc480191763971ae619fec1b12a89c
 DataTable\Resource.edf 6e70019f9225299e60888599c372acd1566fddaf
 DataTable\SkillForce.edf 4dc7b8cd55dee897ab28ab3386d62e795408a9c2
-DataTable\Store.edf 2cc7ca592d19735d7e735dca9fb80de23a7cd33a
+DataTable\Store.edf cfdaea91920209557ca4d50bbd27466b7a48d8e6
 SpriteImage\common\item.spr b9d55c1eee3d3b8c22dafb3823777aff4153a5dd
+>>>>>>> parent of cb6fc6c (update store)
 SpriteImage\en-ph\item.spr 4b381519814a5ae3215474729212f4509a1cfd7d
+SpriteImage\en-ph\itemupgrade.spr 7f9281796b9bcc1d50b11460de81990615032f90
+SpriteImage\en-ph\login.spr ec827a7bf32a6a566531d687c03b259577f76e07
