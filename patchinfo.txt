@@ -2,6 +2,7 @@ DataTable\Character.edf cb793289f75d7dcfa378521c6f4d98040884f701
 DataTable\en-ph\NDCharacter.edf 82de85cef8139fb366cdf604e0b435a189fcb92a
 DataTable\en-ph\NDItem.edf e81f19beee4e714887161dac9c6c050d7c384995
 DataTable\en-ph\NDLanguage.edf 2141703d2e9089570e3c3df13967ce4a76aea037
+DataTable\en-ph\NDMap.edf ee538093878253f6acffc60395a9bdd8e34738dc
 DataTable\en-ph\NDQuest.edf 1f6843956cc6d92d391527770a306de018db3553
 DataTable\en-ph\NDSkillForce.edf 6f308710a873ceb7e16bb39b4509b1b28a808af6
 DataTable\en-ph\NDStore.edf 1ec0b8b792784b31ab4997e28a96dbdf9d8ee5a0
@@ -9,7 +10,7 @@ DataTable\Item.edf 01e58608f5559d63e64da0ce50dde3cb18d14e0d
 DataTable\ItemCash.edf 29219ec99cf3da9fbfbd43f90a66b00a16e47f2a
 DataTable\ItemCombine.edf 43a7856933a69978971566ca0e1e835e13698772
 DataTable\ItemSetEffect.edf bba09781091b522dd56974b92b7d842253da2636
-DataTable\Map.edf 39a16789da5a1e05a32f0d00322aa1c365f73cd3
+DataTable\Map.edf e1c366b349ef80caf7da27af8ac632ffddac26b7
 DataTable\MAPDATA.DAT 0593958fe6212fe529d71f087fe2e50c2abcde0e
 DataTable\NDMap.edf cc1af9a5fe48b2f526032d0bd46d4e78f74a5ede
 DataTable\Quest.edf e1576b029ddeaedd116e7bdf7534c6b123ce176a
