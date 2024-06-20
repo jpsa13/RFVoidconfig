@@ -1,3 +1,4 @@
+Chef\Unit.ini d7ac67ba0f694d4c2666baa89e2d9be1e24aec60
 DataTable\Character.edf 017ab6569f19c4a86933cf2a7d3610ab4d667f62
 DataTable\Csxx.txt 31d212b87b2ebe5a1427b7ccb0e37c74b2451a9e
 DataTable\en-ph\KeyMap.dat 207cc7f81403838148ed44e9d3f74eb8701c79b9
@@ -29,3 +30,4 @@ DataTable\Quest.edf 39da035fde3d57d9ad068243e3c7d3e4bdc4e8d2
 DataTable\Resource.edf 4525a3d5dcd6099bf8145038e2af2f1769a09862
 DataTable\SkillForce.edf 53ed2e9fc8946b0e8c1a979ea4bd03db58d55dba
 DataTable\Store.edf c87fe37b07419ebaeeda20539fcaf2b87d109c4e
+SpriteImage\common\SocketState.spr 61907033439454f92128edd284fa26b14c04e3ce
