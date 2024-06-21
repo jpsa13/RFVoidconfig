@@ -2,13 +2,13 @@ Chef\Unit.ini 58402823155c6b06847f03ee5db5d9e311a02b7f
 DataTable\BlockData.dat 9069ca78e7450a285173431b3e52c5c25299e473
 DataTable\Character.edf 2479e2c386d6e0c2753661ffb0314a8aa795f054
 DataTable\Csxx.txt 31d212b87b2ebe5a1427b7ccb0e37c74b2451a9e
-DataTable\en-ph\KeyMap.dat 207cc7f81403838148ed44e9d3f74eb8701c79b9
-DataTable\en-ph\KeyMap_NKM.dat 04b1791aa06dfb1555c84c5358b9a171c2024c99
+DataTable\en-ph\KeyMap.dat f701d6d96633cb4a2737a8c8af95f959e92b5a71
+DataTable\en-ph\KeyMap_NKM.dat d4e29198d7dae6fe0024fade638bcc882c20bb0e
 DataTable\en-ph\NDCharacter.edf a775ff12f5e79c927321d7c192bf6d7107d57d0a
 DataTable\en-ph\NDEventShip.edf b0bd671fb87148898c377e0e85129ce0786db8e8
-DataTable\en-ph\NDItem.edf 31b9fe844b7f03a450fcbd26e4e260500dbe6c66
+DataTable\en-ph\NDItem.edf c2b912315847fdb8cc928fa91bef3897e97f0cf8
 DataTable\en-ph\NDItemCash.edf 1c107470eac38b09a250d02a17c61e1c824684b0
-DataTable\en-ph\NDLanguage.edf 7358c9fa425a9ca520f8e463bc6956d99030d1d2
+DataTable\en-ph\NDLanguage.edf df2eeff1ec25e0802c4a205746383ab905adab3e
 DataTable\en-ph\NDMap.edf 0f1db133b36a5eab2616a955821db18d729f257f
 DataTable\en-ph\NDMsgEvent.edf 0cf97b7cc46d33adce0ba9e7da9e8144c4d20fd5
 DataTable\en-ph\NDMsgMonster.edf dad47bedf8cdb176dc25a8ca035dead32dabdb20
@@ -18,7 +18,7 @@ DataTable\en-ph\NDStore.edf e3d8f758198b23126e60286b442020640dd9ba66
 DataTable\en-ph\UITranslation.htm 53311ebe1fb4460242f258aafa2b9ff917775ec8
 DataTable\EventShip.edf b9af9e5e9ef6cd17ae78fea1c9597bc73fdf5c72
 DataTable\EventSound.edf 3ca5ea9d3d1e30a71b54ec5b59bc129b2d4c3ac5
-DataTable\Item.edf 7a51cf651a7a491f2b969de4ee5e23cea186c9fc
+DataTable\Item.edf 07e1f8bd1d426e1df79134802f16f296ebab69dc
 DataTable\ItemCash.edf 5a2deb839a8bae0d57641cb29ecd6dc92525853d
 DataTable\ItemCombine.edf f0888a8fe6bd2a8b07f45a9f8cd9bb36199786c4
 DataTable\ItemPremium.edf 2d5e3080c7355ec04dfd3da9721356eb2859e84d
@@ -33,4 +33,4 @@ DataTable\SkillForce.edf 1b6299883e3c70d29c133c453c684dde8fdef96c
 DataTable\Store.edf de6a8b3e0428a7c7524c0cc61712d1df3d0b82d0
 Effect\MagicSptList.spt dd6c7048478b5e572c787835b95495f06bdcb099
 SpriteImage\common\SocketState.spr 61907033439454f92128edd284fa26b14c04e3ce
-SpriteImage\en-ph\item.spr 487bcbdba4d5928c34ddc9c6c2ced2c50663d70d
+SpriteImage\en-ph\item.spr 12a8eaa3d5efc13c3ff345fc613993e6e160ada2
