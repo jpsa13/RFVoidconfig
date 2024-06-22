@@ -36,3 +36,4 @@ Effect\MagicSptList.spt 76c1f968b2615ce1501d912b635af16e3c4732a8
 Effect\magicsptlist.txt 2e5d506696f7acb507c96c86e5ffe27d05f8ebd7
 SpriteImage\common\SocketState.spr 61907033439454f92128edd284fa26b14c04e3ce
 SpriteImage\en-ph\item.spr 12a8eaa3d5efc13c3ff345fc613993e6e160ada2
+SpriteImage\en-ph\loading.spr 1a94dcd32eb1ccc4ef5a488dcd88f8f033a5b7a2
