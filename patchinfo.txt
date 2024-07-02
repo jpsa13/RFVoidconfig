@@ -7,7 +7,7 @@ DataTable\en-ph\KeyMap_NKM.dat e6b03e794d9be1151ad573b76f2e031aae324c92
 DataTable\en-ph\NDCharacter.edf 4a1e2ba8abf43ff17252f39927403b590a243dd3
 DataTable\en-ph\NDEventShip.edf b0bd671fb87148898c377e0e85129ce0786db8e8
 DataTable\en-ph\NDItem.edf 2dd035e13738aa5d99b6f189dbc408811d096e1a
-DataTable\en-ph\NDItemCash.edf 5b5065a8999698749598845c8577a02b2915b93d
+DataTable\en-ph\NDItemCash.edf b5f1c06bd4f77e14170fdc4e583b3d69537e5cfe
 DataTable\en-ph\NDLanguage.edf df2eeff1ec25e0802c4a205746383ab905adab3e
 DataTable\en-ph\NDMap.edf 0f1db133b36a5eab2616a955821db18d729f257f
 DataTable\en-ph\NDMsgEvent.edf 0cf97b7cc46d33adce0ba9e7da9e8144c4d20fd5
@@ -19,7 +19,7 @@ DataTable\en-ph\UITranslation.htm 53311ebe1fb4460242f258aafa2b9ff917775ec8
 DataTable\EventShip.edf b9af9e5e9ef6cd17ae78fea1c9597bc73fdf5c72
 DataTable\EventSound.edf 3ca5ea9d3d1e30a71b54ec5b59bc129b2d4c3ac5
 DataTable\Item.edf 89c20e20245eef9b507cc9554f27f9eb56fb39bb
-DataTable\ItemCash.edf 1eb3e9be533337a9f07b9f75db341fa9d69ee692
+DataTable\ItemCash.edf 51cdff11e668196c6d101289c02f55bc5aeb823a
 DataTable\ItemCombine.edf e0cc2dcc49bcafde49384431cfeee186efa964c4
 DataTable\ItemPremium.edf 2d5e3080c7355ec04dfd3da9721356eb2859e84d
 DataTable\ItemSetEffect.edf 4e3bfcbc2da134a855272786107aa3f89063d291
@@ -35,5 +35,5 @@ Effect\effectentitylist.spt fa89aebe7cc4f52c45137589ff301ca36a447868
 Effect\MagicSptList.spt 76c1f968b2615ce1501d912b635af16e3c4732a8
 Effect\magicsptlist.txt 2e5d506696f7acb507c96c86e5ffe27d05f8ebd7
 SpriteImage\common\SocketState.spr 61907033439454f92128edd284fa26b14c04e3ce
-SpriteImage\en-ph\item.spr 6d4b10d8016aca59f346f26fa4169b985fc4fdf6
+SpriteImage\en-ph\item.spr d72b3e8591adf647b42aec45f893c61ddb60e6b6
 SpriteImage\en-ph\loading.spr 1a94dcd32eb1ccc4ef5a488dcd88f8f033a5b7a2
