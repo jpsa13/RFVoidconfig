@@ -14,7 +14,7 @@ DataTable\en-ph\NDMsgMonster.edf 9402c3de819a70331690455c774735b4a7e5bb6e
 DataTable\en-ph\NDQuest.edf 4e147029b2528a212cde22c1b7c481facbd829e2
 DataTable\en-ph\NDSkillForce.edf 285eb4a1f18e39e17639e2e7eed284154a5f4c97
 DataTable\en-ph\NDStore.edf 4fe7ecfaf33dae9c801d3fe51057cfd59aa067a6
-DataTable\en-ph\UITranslation.htm 7ed67adba2ec17f09d904dc665fcb09cf63cb495
+DataTable\en-ph\UITranslation.htm 53311ebe1fb4460242f258aafa2b9ff917775ec8
 DataTable\EventShip.edf 907af5bd00a1a3c4804db707d1bce6c3e34dea3b
 DataTable\EventSound.edf 3ca5ea9d3d1e30a71b54ec5b59bc129b2d4c3ac5
 DataTable\Item.edf dbf86ce8ff647e0ee704f3704e037e4ffa5e15cf
