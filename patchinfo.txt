@@ -1,5 +1,6 @@
-Chef\Unit.ini 58402823155c6b06847f03ee5db5d9e311a02b7f
-d3d9.dll 656f7822d2b927bf835cea39ed6562a987f63c88
+Chef\unit.ini 58402823155c6b06847f03ee5db5d9e311a02b7f
+d3d9.dll 3e1a1d1791803be8edd1cacb360cb8df42369419
+DataTable\BlockData.dat 9069ca78e7450a285173431b3e52c5c25299e473
 DataTable\Character.edf d4ff757c53291ee32e976d3b36d6569024b79ec5
 DataTable\Csxx.txt 31d212b87b2ebe5a1427b7ccb0e37c74b2451a9e
 DataTable\en-ph\KeyMap.dat c8d85fa03cc522bddae320c924c6f228143cd889
@@ -15,7 +16,8 @@ DataTable\en-ph\NDMsgMonster.edf a265a0abafc98aaf33e0492d0c4318a5b046ed5e
 DataTable\en-ph\NDQuest.edf 2b0d25aafda22a53fee78ebd9186f215d93947c9
 DataTable\en-ph\NDSkillForce.edf 1c375ff8a224d5932fee236774aaa138dbd08a24
 DataTable\en-ph\NDStore.edf 86ac3645bc676924ac3cf3e598513d0fe5319251
-DataTable\en-ph\ui.lang 199ce1a3e7c0407cfe7d55c9d804c1a99178aa8e
+DataTable\en-ph\UIHelp.edf ba37dcc1cc0a149e2dcce71988e6d444381ec3ae
+DataTable\en-ph\UITranslation.htm 53311ebe1fb4460242f258aafa2b9ff917775ec8
 DataTable\EventShip.edf 261d34832e5d332a5b05bcb4b77bb42f29941f84
 DataTable\EventSound.edf 3ca5ea9d3d1e30a71b54ec5b59bc129b2d4c3ac5
 DataTable\Item.edf 2594269706f57ca41d3e21a066b775213f92934d
@@ -32,7 +34,7 @@ DataTable\Resource.edf 709ebc2d8843505466f34cd16da6a9364482ab72
 DataTable\SkillForce.edf 44dd95ab369a93dbe91ba3f349c72fb16d0421e2
 DataTable\Store.edf b2edfcf4ec82120bcc4fd728e89f1aee5add3cdf
 Effect\effectentitylist.spt fa89aebe7cc4f52c45137589ff301ca36a447868
-Effect\MagicSptList.spt 76c1f968b2615ce1501d912b635af16e3c4732a8
+Effect\magicsptlist.spt 76c1f968b2615ce1501d912b635af16e3c4732a8
 Effect\magicsptlist.txt 2e5d506696f7acb507c96c86e5ffe27d05f8ebd7
 RF_Online.bin 0bb310f7b8314a82ad66d2a9a9739b34cfe880d9
 sirin-launcher.dll 1e40220e3464351b5d2fd21dd687a3b93e758459
