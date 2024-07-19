@@ -1,7 +1,7 @@
-Chef\monster.ini 068749cb40c47920bfc4f14d1c204c38bece2f45
+Chef\monster.ini 420234cc88d27c2ee8ab4f0f2e74ab1860a53ecc
 Chef\Unit.ini 58402823155c6b06847f03ee5db5d9e311a02b7f
 d3d9.dll efb45065e8bb90c92581ac4a1742eac4e147ab16
-DataTable\Character.edf 5031d828380d4d958dde4fbf18823fd2c5a77b06
+DataTable\Character.edf b60139429bb10a3ba717b7eb4f82e6b5746397bb
 DataTable\Csxx.txt 31d212b87b2ebe5a1427b7ccb0e37c74b2451a9e
 DataTable\en-ph\KeyMap.dat c8d85fa03cc522bddae320c924c6f228143cd889
 DataTable\en-ph\KeyMap_NKM.dat d7486a452004849be889c638555b2614659700ff
@@ -39,5 +39,5 @@ RF_Online.bin 0bb310f7b8314a82ad66d2a9a9739b34cfe880d9
 sirin-launcher.dll 1e40220e3464351b5d2fd21dd687a3b93e758459
 SpriteImage\common\patriarch.spr f64c4b8163dbf425600fbfa8c3791aff5dd0dd0f
 SpriteImage\common\SocketState.spr 61907033439454f92128edd284fa26b14c04e3ce
-SpriteImage\en-ph\item.spr d72b3e8591adf647b42aec45f893c61ddb60e6b6
+SpriteImage\en-ph\item.spr c6ee44f798435dcf3d8098b6597401d5da141505
 SpriteImage\en-ph\loading.spr fa627146593d9fd23c784ac26f999385043993be
