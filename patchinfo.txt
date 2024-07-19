@@ -1,4 +1,4 @@
-Chef\monster.ini 420234cc88d27c2ee8ab4f0f2e74ab1860a53ecc
+Chef\monster.ini 068749cb40c47920bfc4f14d1c204c38bece2f45
 Chef\Unit.ini 58402823155c6b06847f03ee5db5d9e311a02b7f
 d3d9.dll efb45065e8bb90c92581ac4a1742eac4e147ab16
 DataTable\Character.edf 5031d828380d4d958dde4fbf18823fd2c5a77b06
